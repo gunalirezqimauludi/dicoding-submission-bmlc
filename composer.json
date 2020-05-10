@@ -1,0 +1,17 @@
+{
+    "name": "dicoding/line-bot-php",
+    "description": "Simple line bot using php slim framework",
+    "type": "project",
+    "require": {
+        "php": "^7.1",
+        "slim/slim": "^3.12",
+        "linecorp/line-bot-sdk": "^3.11",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Gunali Rezqi Mauludi",
+            "email": "hello.gunalirezqi@gmail.com"
+        }
+    ]
+}
