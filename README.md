@@ -8,6 +8,6 @@ Dicoding Submission Belajar Membangun LINE Chatbot
 
 |              Correct Keyword              |              List Music             |              Audio Downloaded              |
 | :------------------------------------: | :---------------------------------: | :-----------------------------------: |
-| ![light](screenshoot/correct-keyword.jpg) | ![dark](screenshoot/list-music.jpg) | ![nature](screenshoot/on-boarding-reply.jpg) |
+| ![light](screenshoot/correct-keyword.jpg) | ![dark](screenshoot/list-music.jpg) | ![nature](screenshoot/audio-downloaded.jpg) |
 
 ![main](screenshoot/submission-info.jpg)
